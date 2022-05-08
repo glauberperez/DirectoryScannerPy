@@ -1,1 +1,1 @@
-# DirectoryScannerPy
+# <p align="center">DirectoryScannerPy</P>
